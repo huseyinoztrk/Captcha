@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Captcha\Captcha\obj\Debug\Captcha.pdb
